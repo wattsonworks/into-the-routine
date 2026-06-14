@@ -1,0 +1,9 @@
+# into-the-routine — project-level robots.txt
+# NOTE: On GitHub Pages user-sites this file is NOT authoritative. Crawlers only
+# read https://wattsonworks.github.io/robots.txt (origin root), which Allow:s this
+# path and references the master sitemap index. Kept here for portability only.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://wattsonworks.github.io/into-the-routine/sitemap.xml
